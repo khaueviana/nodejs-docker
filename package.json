@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-docker",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaueviana/nodejs-docker.git"
+  },
+  "author": "KV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaueviana/nodejs-docker/issues"
+  },
+  "homepage": "https://github.com/khaueviana/nodejs-docker#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
